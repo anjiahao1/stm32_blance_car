@@ -1,0 +1,8 @@
+oled
+D0 --PA5
+D1--PA7
+RES--PB0
+DC--PB1
+CS--A4
+ 
+ADC--A0

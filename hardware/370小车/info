@@ -1,0 +1,308 @@
+{
+  "uuid": "6d46ffda38785b2aeadec48e65786904",
+  "path": "Offline/370小车",
+  "name": "370小车",
+  "content": "",
+  "created_at": "2020-06-11 15:20:09",
+  "updated_at": "2020-06-15 08:39:40",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1c6f56ab59e3879d70b4b3022247098c",
+      "title": "Sheet_1 copy",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f47a23a44ab44a3fba2a7ecf0bdf24c2": 1,
+        "699eaf95cb3a457aba5813fbb940deaf": 1,
+        "a1a68e8402b9461199345d2cae776c3f": 2,
+        "61d4204e218e4d93bb7b7c7304a55dfe": 1,
+        "f6b470f12084477ba2c455bb5c345d5b": 1,
+        "d67cc3a03ae94aa3be765d6675abf24c": 1,
+        "fcc4ac8e5b1d46b28da87f6c71844084": 1,
+        "1ba8788e872245b398dc06175b846c09": 1,
+        "ef7ec75436814389a6738f2b86eca39d": 1,
+        "f7ff172f700447f394c7119bc84e1cb7": 1,
+        "7c4d4098ec3a4ad784d767dcd2c97fe7": 1,
+        "2503dd65f2fd4dda8fbec3f449a1541f": 1,
+        "5b9620699ada415aa1c36c115af1d65d": 1,
+        "de05373244694cd69375528dbda927a2": 2,
+        "6004427743dbdd555d6b794af143fe13": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "oled0.96",
+          1,
+          "HDR1X7",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7aedd592ca84446dade7e1e0772151d3",
+            "uuid": "1ba8788e872245b398dc06175b846c09"
+          }
+        ],
+        [
+          "470u",
+          1,
+          "CAP-D10.0×F5.0",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "986ca71d43e94c6f946f952ade660c20",
+            "uuid": "5b9620699ada415aa1c36c115af1d65d"
+          }
+        ],
+        [
+          "18650-3-电池盒",
+          1,
+          "18650-3电池盒",
+          "U5",
+          {
+            "BOM_Manufacturer": "Your Cee",
+            "BOM_Manufacturer Part": "18650插脚3节",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "优信电子",
+            "puuid": "1dea2514426d4aca9b951c33fcfe3819",
+            "uuid": "7c4d4098ec3a4ad784d767dcd2c97fe7"
+          }
+        ],
+        [
+          "1u",
+          1,
+          "RAD-0.2",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "75844c5980bb4094beb1dc6c0a3a9856",
+            "uuid": "61d4204e218e4d93bb7b7c7304a55dfe"
+          }
+        ],
+        [
+          "SWITCH,4.5*4.5*3.8PLASTIC HEAD,260G, 0.25MM,STRAIGHT LINE",
+          1,
+          "KEY-TH_4P-L4.5-W4.5-P3.00-LS5.8",
+          "SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BBJ",
+            "BOM_Manufacturer Part": "Switch,4.5*4.5*3.8Plastic head,260G, 0.25mm,Straight line",
+            "BOM_Supplier Part": "C71853",
+            "puuid": "4d3c46fde0f442d98d344d9cbea71e39",
+            "uuid": "699eaf95cb3a457aba5813fbb940deaf"
+          }
+        ],
+        [
+          "HCSR04",
+          1,
+          "HCSR04",
+          "U7",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "be206c919d6c4bb69c07fc49f1520779",
+            "uuid": "2503dd65f2fd4dda8fbec3f449a1541f"
+          }
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "6004427743dbdd555d6b794af143fe13"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_AXIAL-0.3",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "a1a68e8402b9461199345d2cae776c3f"
+          }
+        ],
+        [
+          "4.7k",
+          1,
+          "R_AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "a1a68e8402b9461199345d2cae776c3f"
+          }
+        ],
+        [
+          "STM32F103C8T6最小系统板",
+          1,
+          "STM32F103C8T6核心板",
+          "U1",
+          {
+            "BOM_Supplier Part": "C8734",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer": "无",
+            "BOM_Manufacturer Part": "STM32F103C8T6最小系统模块",
+            "puuid": "b7dcb5bf62ee455cb218e0c591ff4827",
+            "uuid": "d67cc3a03ae94aa3be765d6675abf24c"
+          }
+        ],
+        [
+          "Z-211-0611-0021-001",
+          2,
+          "HDR-TH_6P-P2.54-V_Z-211-0611-0021-001",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C190819",
+            "BOM_Manufacturer": "Nextronics Engineering",
+            "BOM_Manufacturer Part": "Z-211-0611-0021-001",
+            "puuid": "b0b89365d0124ec89d0a6d8173f90f5d",
+            "uuid": "de05373244694cd69375528dbda927a2"
+          }
+        ],
+        [
+          "TB6612驱动模块",
+          1,
+          "BT6612驱动模块",
+          "U4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7cfa454fd31d41c6964d5d76a1f3638a",
+            "uuid": "ef7ec75436814389a6738f2b86eca39d"
+          }
+        ],
+        [
+          "Mini360",
+          1,
+          "M360",
+          "DC1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41b80c86f51543d2809908f06d991300",
+            "uuid": "f6b470f12084477ba2c455bb5c345d5b"
+          }
+        ],
+        [
+          "esp-01",
+          1,
+          "ESP-01S",
+          "U6",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "乐鑫",
+            "puuid": "c9175b041fc846e79612cb487da9ed51",
+            "uuid": "f7ff172f700447f394c7119bc84e1cb7"
+          }
+        ],
+        [
+          "K8-5851E-N1_C134191",
+          1,
+          "SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-BL",
+          "SW1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HRO",
+            "BOM_Manufacturer Part": "K8-5851E-N1",
+            "BOM_Supplier Part": "C134191",
+            "puuid": "d0c32a6052e546929c50c31354663151",
+            "uuid": "f47a23a44ab44a3fba2a7ecf0bdf24c2"
+          }
+        ],
+        [
+          "MPU6050模块",
+          1,
+          "MPU6050",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "09758483d3134ae281ba6a750d665d5a",
+            "uuid": "fcc4ac8e5b1d46b28da87f6c71844084"
+          }
+        ]
+      ],
+      "updateTime": 1592179596,
+      "createTime": 1591860018,
+      "histories": [],
+      "created_at": "2020-06-11 15:20:18",
+      "updated_at": "2020-06-15 08:06:36"
+    },
+    {
+      "uuid": "aa5149b1edde1da43c64a469db79c9bc",
+      "puuid": "4466b40f0408a75ea9c2034e1281b907",
+      "title": "PCB_2020-06-10_00-30-48 copy",
+      "filename": "PCB_2020-06-10_00-30-48 copy.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "07f65a035ec440c9ba8d8743498f47ca": 1,
+        "1dea2514426d4aca9b951c33fcfe3819": 1,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "7aedd592ca84446dade7e1e0772151d3": 1,
+        "75844c5980bb4094beb1dc6c0a3a9856": 1,
+        "4d3c46fde0f442d98d344d9cbea71e39": 1,
+        "be206c919d6c4bb69c07fc49f1520779": 1,
+        "3eb1249f3ebb4284ae221b0379016582": 2,
+        "b7dcb5bf62ee455cb218e0c591ff4827": 1,
+        "7cfa454fd31d41c6964d5d76a1f3638a": 1,
+        "41b80c86f51543d2809908f06d991300": 1,
+        "c9175b041fc846e79612cb487da9ed51": 1,
+        "d0c32a6052e546929c50c31354663151": 1,
+        "09758483d3134ae281ba6a750d665d5a": 1,
+        "b0b89365d0124ec89d0a6d8173f90f5d": 2
+      },
+      "BOM": [],
+      "updateTime": 1592181580,
+      "createTime": 1591860027,
+      "histories": [],
+      "created_at": "2020-06-11 15:20:27",
+      "updated_at": "2020-06-15 08:39:40"
+    }
+  ],
+  "sort": [
+    "491736c652ca7b6e91fb3eacee1c2608",
+    "1c6f56ab59e3879d70b4b3022247098c"
+  ],
+  "title": "370小车",
+  "foldername": "370小车",
+  "schfilename": "370小车.json",
+  "schfilemtime": 1592179596723
+}
